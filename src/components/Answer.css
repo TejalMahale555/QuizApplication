@@ -1,0 +1,15 @@
+.answer {
+    padding: 10px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: white;
+    transition: background-color 0.3s;
+  }
+  
+  .answer:hover {
+    background-color: #0056b3;
+  }
+  
